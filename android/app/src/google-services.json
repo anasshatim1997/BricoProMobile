@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1065500903665",
+    "project_id": "bricopro-3345f",
+    "storage_bucket": "bricopro-3345f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065500903665:android:6d7068e6004fcb82c20150",
+        "android_client_info": {
+          "package_name": "com.bricoproapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065500903665-35238v9sp1gd7lg5tpobiagqc96guvgl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bricoproapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1065500903665-4tbrldjc6ojbng3jevnt0qibea0jf05c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArRSmOvFTkGeAxEI3aGz5XM_tO26deF3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065500903665-4tbrldjc6ojbng3jevnt0qibea0jf05c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
